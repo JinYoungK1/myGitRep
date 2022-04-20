@@ -35,7 +35,6 @@ public class crawController {
         int chamLength = ele.size();
         System.out.println("div개수"+chamLength);
         
-             
         
         List<String> NameResult = new ArrayList<>();
         List<String> PlayedResult = new ArrayList<>();
